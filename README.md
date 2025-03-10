@@ -1,4 +1,4 @@
-# MauiAppBarcode
+# Maui App Barcode
 
 ## Описание
 
@@ -23,7 +23,7 @@
 1. **Клонируйте репозиторий:**
 
     ```sh
-    git clone https://github.com/DKAVrZoV65F/MauiAppBarcode.git
+    git clone https://github.com/DKAVrZoV65F/maui-app-barcode.git
     cd MauiAppBarcode
     ```
 
